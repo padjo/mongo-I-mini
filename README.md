@@ -12,7 +12,8 @@ of the knowledge from Node and Express will carry over to this mini project,
 where you'll interface with a database in your route handlers.
 
 ## Running the Project
-- Install [MongoDB](https://www.mongodb.com/download-center).
+- Install [MongoDB](https://www.mongodb.com/download-center). Best way to install it is via brew
+- brew install mongodb
 - `cd` into your project directory.
 - Run `npm install` to download the dependencies.
 - Run `mongod --dbpath data` and keep it running in a separate terminal.
